@@ -1,0 +1,161 @@
+﻿  @{
+   
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <style>
+
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:550px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+  .container_swap{
+  
+  width: 1300px;
+  margin:auto;
+  margin-top: 100px;
+  
+  }
+  .div_chinh{
+  
+  width: 900px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  .div_chinhle{
+  
+  width: 30px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  
+  .div_le{
+  
+  width: 70px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  .div_phu{
+  
+  width: 300px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  background-color:#DCDCDC;
+  }
+}
+</style>
+
+  
+
+
+     <!--Danh sách-->
+
+
+
+<h1 style="text-align:center;color:#808080;margin-top:60px;">Danh sách thành viên</h1>
+
+
+@model IEnumerable<ChiTietDuAn>
+
+<div class="container_swap">
+    <div class="div_le">.</div>
+    <div class="div_phu">
+                <a asp-action="hienthidanhsachduan"asp-controller="QuanLyDuAn"class="btn btn-primary"style="margin-top:30px;">Hiển thị danh sách dự án</a>
+                <hr  style="width:70%;text-align:center;" />
+                <a asp-action="themduanex"asp-controller="QuanLyDuAn" class="btn btn-primary">Thêm dự án</a>
+                <hr  style="width:70%;text-align:center;" />
+                <a asp-action="xoaduan"asp-controller="QuanLyDuAn" class="btn btn-primary">Xóa dự án</a>
+                <hr  style="width:70%;text-align:center;" />
+                <a asp-action="timkiemduanLabID"asp-controller="QuanLyDuAn" class="btn btn-primary">Tìm dự án theo LabID</a>
+                <hr  style="width:70%;text-align:center;" />
+                <a asp-action="timkiembangex"asp-controller="QuanLyDuAn" class="btn btn-primary">Tìm dự án theo những LabID theo excel </a>
+                <hr  style="width:70%;text-align:center;" />
+                <a asp-action="hienthidanhsachthanhvientheoduan"asp-controller="QuanLyDuAn" class="btn btn-primary">Xuất danh sách thành viên tham gia dự án </a>
+                <hr  style="width:70%;text-align:center;" />
+                <a asp-action="Index"asp-controller="TkSuper" class="btn btn-primary">HomePage</a>     
+                 <p style="line-height:1000px">.</p>
+                <hr  style="width:70%;text-align:center;line-height:1000px" /> 
+    </div>
+
+  
+    <div class="div_chinhle">.</div>
+
+
+    <div class="div_chinh">
+
+    @if (Model != null)
+    {
+        <hr/>
+        <table style="text-align:center;margin-top:50px;margin:auto;width:90%;margin-left:50px">
+            <tr style="background-color:#0000FF;box-shadow: 2px 2px 2px #999999; border-radius:1px; border-width: 1px;border-style: solid;">
+                <td style="color:white">ID</td>
+                <td style="color:white">LabID</td>
+                <td style="color:white">Tên</td>
+                <td style="color:white">Tên dự án </td>
+                <td style="color:white">Chức vụ </td>
+                <td style="color:white">Bắt đầu</td>
+                <td style="color:white">Kết thúc</td>
+                <td style="color:white">Đánh giá</td>
+                <td style="color:white">Chỉnh sửa</td>
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="border:0.5px solid white;">@item.ID</td>
+                    <td style="border:0.5px solid white;">@item.LabID</td>
+                    <td style="border:0.5px solid white;">@item.Ten</td>
+                    <td style="border:0.5px solid white;">@item.Tenduan</td>
+                    <td style="border:0.5px solid white;">@item.Chucvu</td>
+                    <td style="border:0.5px solid white;">@item.BatDau</td>
+                    <td style="border:0.5px solid white;">@item.KetThuc</td>
+                    <td style="border:0.5px solid white;">@item.Danhgia</td>
+                    <td><a asp-action="EditDuAnlink" asp-route-id="@item.ID"class="btn btn-primary">Edit</a> </td>
+                </tr>
+            }
+        </table>
+    }
+    </div>
+</div>
+
+
+
+

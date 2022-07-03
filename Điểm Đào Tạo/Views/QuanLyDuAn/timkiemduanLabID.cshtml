@@ -1,0 +1,98 @@
+﻿ @model List<ChiTietDuAn>
+ <form style="margin-top:50px;"class="formlogin" asp-action="timkiemduanLabID",asp-controller="QuanLyDuAn",method="post">
+    @Html.AntiForgeryToken()    
+    @Html.ValidationSummary()
+    <div class="form-group">
+       <input class="abc1"placeholder="Nhập LabID" type="text" id="IP" name="IP" />
+    </div>
+    <div class="form-group">
+       <input style="width:100px;height:50px"type="submit"class="btnlogin" value="Tìm kiếm"/>
+    </div>
+     
+    
+    </form>
+    @if(Model!=null)
+{
+    <hr/>
+   <table style="border-collapse:collapse;width:1000px; margin:auto;margin-top:50px; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+        <tr>
+              <td style="border:1px solid black;padding:10px;">ID</td>
+              <td style="border:1px solid black;padding:10px;">LabID</td>
+              <td style="border:1px solid black;padding:10px;">Tên</td>
+              <td style="border:1px solid black;padding:10px;">Tên dự án </td>
+              <td style="border:1px solid black;padding:10px;">Chức vụ </td>
+              <td style="border:1px solid black;padding:10px;">Bắt đầu</td>
+              <td style="border:1px solid black;padding:10px;">Kết thúc</td>
+              <td style="border:1px solid black;padding:10px;">Đánh giá</td>
+             
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.ID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Tenduan</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Chucvu</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.BatDau</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.KetThuc</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Danhgia</td>
+                
+            </tr>
+        }
+    </table>
+}
+     <style>
+    .form-group{
+        text-align:center;
+        margin-top:30px;
+    }
+   
+    </style>
+    
+ <style>
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin:auto;}
+.abc{
+margin-top:50px;
+margin-left:550px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>
+
+</style>
+<div class="abc">
+<h1 class="giua">Hướng dẫn sử dụng </h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+
+<p style="margin-left:30px;">Điền ID bạn muốn tìm</p>
+</div>

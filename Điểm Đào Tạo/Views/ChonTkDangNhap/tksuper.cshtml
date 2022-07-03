@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/layout2.cshtml";
+}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+</head>
+<body>
+<style>
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    position:absolute;
+    top:30%;
+    left:30%;
+    width:40%;
+    height:35%;
+    }
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width:100%;
+    height:15%;
+}
+.btnlogin{
+    width:100%;  /* căn lề cho button trong form*/
+    background-color:#6495ED;/* màu button*/
+    height:20%;
+   
+    text-align: center; /* căn lề cho chữ */
+    border-radius: 4px;   /* điều chỉnh góc tròn*/
+    color:white;  /*màu chữ*/
+    border-color:#6495ED;  /* viền */
+}
+
+
+</style>
+<!--css thằng form chứa nó -->
+
+
+
+    
+       <!--tạo form chuyền thông tin => đơn giản hiệu quả --> 
+   <form class="formlogin" asp-action="tksuper",asp-controller="ChonTkDangNhap",method="post">
+    <div class="form-group">
+       <input class="abc1"placeholder="Nhập LabID" type="text" id="IP" name="IP" />
+    </div>
+    <div class="form-group">
+      <input class="abc1"placeholder="Nhập mật khẩu"type="text" id="pw" name="pw" />
+    </div>
+    <div class="form-group">
+       <input type="submit"class="btnlogin" value="Đăng Nhập"  />
+    </div>
+
+
+    </form>
+      </body>
+</html>

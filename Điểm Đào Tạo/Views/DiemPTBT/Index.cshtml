@@ -1,0 +1,107 @@
+﻿@model List<diemptbt>
+  <h1 style="text-align:center;color:#808080;margin-top:50px">Bảng Điểm Phát triển bản thân</h1>
+<style>
+    .container_swap{
+  
+  width: 1300px;
+  margin:auto;
+  margin-top: 100px;
+  
+  }
+  
+  .div_chinh{
+  
+  width: 900px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  .div_chinhle{
+  
+  width: 30px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  
+  .div_le{
+  
+  width: 70px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  .div_phu{
+  
+  width: 300px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  background-color:#DCDCDC;
+  }
+
+</style>
+<div class="container_swap">
+  
+    <div class="div_le">.</div>
+    <div class="div_phu">
+        <a asp-action="xuatfilexdiemptbt"asp-controller="DiemPTBT" class="btn btn-primary"style="margin-top:30px;">Xuất Điểm Phát triển bản thân Excel </a>
+         <hr  style="width:70%;text-align:center;" />
+        <a asp-action="capnhatdiemptbtbangexcel"asp-controller="DiemPTBT" class="btn btn-primary">Cập nhật  Điểm Phát triển bản thân bằng Excel </a>
+        <hr  style="width:70%;text-align:center;" />
+        <a asp-action="timkiemdiemptbt"asp-controller="DiemPTBT"class="btn btn-primary">Tim kiếm Điểm Phát triển bản thân  </a>
+        <hr  style="width:70%;text-align:center;" />
+        <a asp-action="sapxepdiemptbt"asp-controller="DiemPTBT" class="btn btn-primary">Sắp xếp  Điểm Phát triển bản thân  </a>
+         <hr  style="width:70%;text-align:center;" />
+         <a asp-action="timdiemptbttheokhoang"asp-controller="DiemPTBT" class="btn btn-primary">Tìm Điểm Phát triển bản thân Theo Khoảng </a>
+        <p style="line-height:1000px">.</p>
+        <hr  style="width:70%;text-align:center;line-height:1000px" />
+    </div>
+    <div class="div_chinhle">.</div>
+
+
+    <div class="div_chinh">
+     @if (Model != null)
+    {
+        @if (Model.Count() > 0)
+        {  
+             
+   <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm PTBT </th>
+                     <th style="border:1px solid black;padding:10px;">Chỉnh sửa  </th>
+       </tr>
+    </thead>
+    <tbody>
+        
+             @foreach (var item in Model)
+                    {<tr>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.DiemPTBT</td>
+            <td><a asp-action="EditDiemPTBTlink" asp-route-id="@item.LabID"class="btn btn-primary">Edit</a> </td>
+                        
+                    
+                     </tr>}
+            
+       
+       
+    </tbody>
+ </table>
+}}
+  </div>
+ </div>

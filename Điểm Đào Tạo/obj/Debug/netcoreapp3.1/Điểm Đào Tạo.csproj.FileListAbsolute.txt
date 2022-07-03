@@ -1,0 +1,439 @@
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.exe
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.deps.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.dev.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.AssemblyReference.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfoInputs.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CoreCompileInputs.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\staticwebassets\Điểm Đào Tạo.StaticWebAssets.Manifest.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.input.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.output.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorCoreGenerate.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.genruntimeconfig.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CopyComplete
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Diem\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TruongBanDaoTao\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TruongPowerTeam\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ShowDiemDaoTaoChoTruongPT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\CapNhatDiemDaoTaoTruongPTEx\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimKiemTheoLabIDDiemDaoTao\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\XacdinhPTTrucThuocTheoID\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\CapNhatDiemYThucBangEx\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TìmKiemDiemYThuc\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimkiemDiemYThucTheoID\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimkiemDiemYThucTheoTen\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\SuaDiemYThucThuCong\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\SapXepDiemYThuc\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimDiemYThucTheoKhoang\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\CapNhatDiemPTBTBangEx\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimKiemDiemPTBT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimkiemDiemPTBTTheoID\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimkiemDiemPTBTTheoTen\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\SuaDiemPTBTThuCong\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\SapXepDiemPTBT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Điểm Đào Tạo\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TimDiemPTBTTheoKhoang\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.exe
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.deps.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.dev.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.AssemblyReference.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfoInputs.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CoreCompileInputs.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\staticwebassets\Điểm Đào Tạo.StaticWebAssets.Manifest.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.input.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.output.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorCoreGenerate.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CopyComplete
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.genruntimeconfig.cache
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Assest\Admin\vendor\fontawesome-free\package.json
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\capnhatdiemythucbangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythuc.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythucID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythucTen.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\sapxepdiemythuc.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timdiemythuctheokhoang.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\capnhatdiemptbtbangexcel.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbt.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbtID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbtTen.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\sapxepdiemptbt.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timdiemptbttheokhoang.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\truongpt.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\showdanhsachPT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\capnhatdiemptbangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\xuatthanhvienPT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\truongbandaotao.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\timkiemdiemdaotaotheoID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\xacdinhPT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tkuser.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tksuper.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\quanlydiem.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tkchinhsuaquyentruycap.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\capnhattrangthai.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\danhsachthanhvienhoatdong.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\themtkbangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\XuatDanhSachTheoDacDiemBangChinh.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\chinhsuadanhsachcuthe.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\chonid.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\hienthidanhsachduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\hienthidanhsachthanhvientheoduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\themduanex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\timkiembangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\timkiemduanLabID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\xoaduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\DeleteLT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\EditLT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\Find.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\LT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\AddChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\ChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\DeleteChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\EditChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\FindChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\searchMemberInfo.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\EditDiemPTBTlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\EditDiemYThuclink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\EditDiemDaoTaolink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\EditBangChinhlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Task2-Quản lý các đầu điểm\Quản lý 3 đầu điểm\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\EditDuAnlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Assest\Admin\vendor\fontawesome-free\package.json
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.exe
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.deps.json
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.json
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.dev.json
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.AssemblyReference.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfoInputs.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CoreCompileInputs.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\staticwebassets\Điểm Đào Tạo.StaticWebAssets.Manifest.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.input.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.output.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorCoreGenerate.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tkchinhsuaquyentruycap.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tksuper.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tkuser.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\capnhatdiemptbangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\EditDiemDaoTaolink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\showdanhsachPT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\timkiemdiemdaotaotheoID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\truongbandaotao.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\truongpt.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\xacdinhPT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\xuatthanhvienPT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\capnhatdiemptbtbangexcel.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\EditDiemPTBTlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\sapxepdiemptbt.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timdiemptbttheokhoang.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbt.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbtID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbtTen.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\capnhatdiemythucbangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\EditDiemYThuclink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\sapxepdiemythuc.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timdiemythuctheokhoang.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythuc.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythucID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythucTen.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\capnhattrangthai.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\danhsachthanhvienhoatdong.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\EditBangChinhlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\searchMemberInfo.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\themtkbangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\XuatDanhSachTheoDacDiemBangChinh.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\AddChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\ChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\DeleteChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\EditChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\FindChungChi.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\EditDuAnlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\hienthidanhsachduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\hienthidanhsachthanhvientheoduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\themduanex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\timkiembangex.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\timkiemduanLabID.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\xoaduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\DeleteLT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\EditLT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\Find.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\LT.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\quanlydiem.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\Index.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CopyComplete
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.genruntimeconfig.cache
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\Editthongtinlink.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\thanhtichduan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\thanhtichleaderteam.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\showthongtincacbang.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\databaseclone.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\AddPhanQuyen.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\DeletePhanQuyen.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\ErrorView.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\Privacy.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\QuanLyTaiKhoan.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\suamatkhau.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\layout2.cshtml.g.cs
+D:\D\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\layoutTkUser.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Assest\Admin\vendor\fontawesome-free\package.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.exe
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.deps.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.runtimeconfig.dev.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.AssemblyReference.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfoInputs.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.AssemblyInfo.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CoreCompileInputs.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.MvcApplicationPartsAssemblyInfo.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorAssemblyInfo.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\staticwebassets\Điểm Đào Tạo.StaticWebAssets.Manifest.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.input.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.TagHelpers.output.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorCoreGenerate.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tkchinhsuaquyentruycap.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tksuper.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\ChonTkDangNhap\tkuser.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\capnhatdiemptbangex.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\EditDiemDaoTaolink.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\showdanhsachPT.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\timkiemdiemdaotaotheoID.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\truongbandaotao.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\truongpt.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\xacdinhPT.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemDaoTao\xuatthanhvienPT.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\capnhatdiemptbtbangexcel.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\EditDiemPTBTlink.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\sapxepdiemptbt.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timdiemptbttheokhoang.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbt.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbtID.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemPTBT\timkiemdiemptbtTen.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\capnhatdiemythucbangex.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\EditDiemYThuclink.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\sapxepdiemythuc.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timdiemythuctheokhoang.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythuc.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythucID.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\DiemYThuc\timkiemdiemythucTen.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\capnhattrangthai.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\danhsachthanhvienhoatdong.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\EditBangChinhlink.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\searchMemberInfo.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\themtkbangex.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\XuatDanhSachTheoDacDiemBangChinh.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\AddChungChi.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\ChungChi.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\DeleteChungChi.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\EditChungChi.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\FindChungChi.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyChungChi\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\EditDuAnlink.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\hienthidanhsachduan.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\hienthidanhsachthanhvientheoduan.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\themduanex.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\timkiembangex.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\timkiemduanLabID.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyDuAn\xoaduan.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\DeleteLT.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\EditLT.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\Find.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyLT\LT.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\layout2.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\layoutTkUser.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\AddPhanQuyen.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\DeletePhanQuyen.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\ErrorView.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\Privacy.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkPhanQuyenTruyCap\QuanLyTaiKhoan.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\databaseclone.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\quanlydiem.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkSuper\showthongtincacbang.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\Editthongtinlink.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\suamatkhau.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\thanhtichduan.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\thanhtichleaderteam.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.RazorTargetAssemblyInfo.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.Views.pdb
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.csproj.CopyComplete
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.dll
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.pdb
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Điểm Đào Tạo.genruntimeconfig.cache
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\UploadImage.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\TkUser\DeleteImage.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\bin\Debug\netcoreapp3.1\themify-icons\Themify IconFonts 5-23-2014.json
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\QuanLyBangChinh\DeleteImage.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\CommentBox\Index.cshtml.g.cs
+D:\D\Hệ thống các dự án\Web quản lý nhân sự Lab\Project  tổng\Full Code\Điểm Đào Tạo\obj\Debug\netcoreapp3.1\Razor\Views\CommentBoxUser\Index.cshtml.g.cs

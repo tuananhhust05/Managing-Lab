@@ -1,0 +1,69 @@
+﻿
+@model List<DiemDaoTao>
+   <div class="header"></div>
+ <style>
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+</style>
+<h1 style="text-align:center;color:#808080">Danh Sách các thành viên </h1>
+
+ 
+
+  
+     @if (Model != null)
+    {
+        @if (Model.Count() > 0)
+        {  
+             
+ 
+             <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>}}

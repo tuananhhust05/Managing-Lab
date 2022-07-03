@@ -1,0 +1,43 @@
+﻿@{
+   
+    Layout = "~/Views/Shared/layoutTkUser.cshtml";
+}
+<!--View chính-->
+@model List<LT>
+<h1 style="text-align:center;color:#808080;margin-top:75px">Danh sách thông tin LT </h1>
+<!--Các phím này chuyển đến các action trong Home-->
+<!-- Tư duy rất hay -->
+
+
+@if (Model != null)
+{
+    
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">  
+    <tr>  
+        <th>ID</th>  
+        <th>LabID</th>  
+        <th>Tên</th>  
+        <th>Chức vụ</th>  
+        <th>Bắt đầu</th>  
+        <th>Kết thúc</th>  
+        <th>Đánh giá</th>  
+        
+    </tr>  
+    @foreach (var d in Model)  
+    {  
+        <tr> 
+            <td>@d.ID</td>  
+            <td>@d.LabID</td>  
+            <td>@d.Ten</td>  
+            <td>@d.ChucVu</td>  
+            <td>@d.BatDau</td>  
+            <td>@d.KetThuc</td>  
+            <td>@d.DanhGia</td>  
+            
+        </tr>  
+    }  
+    </table>  
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkUser" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

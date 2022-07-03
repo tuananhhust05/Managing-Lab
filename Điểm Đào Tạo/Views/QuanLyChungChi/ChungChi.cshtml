@@ -1,0 +1,73 @@
+﻿
+@model List<ChungChi>
+<h1 style="text-align:center;margin-top:50px;color:#808080">Danh sách thông tin chứng chỉ</h1>
+
+<!--Show ra trang sau khi update-->
+<!--Nhưng khi điều hướng vẫn chạy đến thẳng trang chungchi -->
+<form asp-controller="QuanLyChungChi" asp-action="Index" method="post" enctype="multipart/form-data">
+    <input name="file" type="file" required />
+    <button type="submit">Upload</button>
+    <hr />
+</form>
+
+
+<form asp-controller="QuanLyChungChi" asp-action="ExportToExcel" method="post">
+    <button type="submit">Export To Excel</button>
+</form>
+
+
+<form asp-controller="QuanLyChungChi" asp-action="FindChungChi" method="get" enctype="multipart/form-data">
+    <hr />
+
+    <label name="Attribute">Trường dữ liệu:</label>
+
+    <select name="Attribute" id="Attribute">
+        <option value="ID">ID</option>
+        <option value="LabID">LabID</option>
+        <option value="Ten">Tên</option>
+        <option value="TenChungChi">Tên Chứng Chỉ</option>
+    </select>
+
+    <h3> Thông tin cần tìm</h3>
+    <input name="varr" type="text" required />
+    <button type="submit" asp-action="FindChungChi"> Find</button>
+    
+</form>
+
+<form asp-controller="QuanLyChungChi" asp-action="AddChungChi" method="post" enctype="multipart/form-data">
+    <button type="submit" asp-action="AddChungChi"> Add</button>
+</form>
+
+
+    @if (Model != null)
+    {
+
+        <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+            <tr>
+                <th>ID</th>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Tên Chứng Chỉ</th>
+                <th></th>
+            </tr>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.ID</td>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.Tenchungchi</td>
+                    <td>
+                        <a asp-action="EditChungChi" asp-route-id="@d.ID"class="btn btn-primary">Edit</a>
+                    </td>|
+                    <td>
+                        <a asp-action="DeleteChungChi" asp-route-id="@d.ID"class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+
+            }
+        </table>
+    }
+    <button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

@@ -1,0 +1,48 @@
+﻿ 
+
+
+
+
+
+
+
+@model List<MainTable>
+
+     @if(Model!=null)
+{
+    <hr/>
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+        <tr>
+             
+              <td >LabID</td>
+              <td >Tên</td>
+              <td >Thế hệ </td>
+              <td >SDT</td>
+              <td >Ngành học</td>
+              <td >Trường học</td>
+              <td >email</td>
+              <td >Quê quán</td>
+              <td >Trạng thái hoạt động </td>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.LabID</td>
+                <td>@item.Ten</td>
+                <td>@item.TheHe</td>
+                <td>@item.SDT</td>
+                <td>@item.NganhHoc</td>
+                <td>@item.TruongHoc</td>
+                <td>@item.email</td>
+                <td>@item.QueQuan</td>
+                <td>@item.TrangThai</td>
+            
+            </tr>
+        }
+    </table>
+}
+
+<button style="text-align:center;position:absolute;margin-top:25px;left:30%;background-color:#6495ED;width:30%;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="xuatdanhsachhoatdongex"asp-controller="QuanLyBangChinh"style="text-decoration: none;color:white"> Xuất file excel </a>
+ </button>
+   

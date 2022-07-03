@@ -1,0 +1,37 @@
+﻿@model List<LT>
+
+@if (Model != null)
+{
+    if (Model.Count() > 0)
+    {
+        <h1 style="text-align:center;color:#808080">Danh sách thông tin tìm được </h1>
+        <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="1" cellspacing="0">
+            <tr>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Chức vụ</th>
+                <th>Bắt đầu</th>
+                <th>Kết thúc</th>
+                <th>Đánh giá</th>
+            </tr>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.ChucVu</td>
+                    <td>@d.BatDau</td>
+                    <td>@d.KetThuc</td>
+                    <td>@d.DanhGia</td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <h1 style="text-align:center;color:#808080">Không có thông tin </h1>
+    }
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

@@ -1,0 +1,40 @@
+﻿@model List<DiemDaoTao>
+<h1 style="text-align:center;color:#808080">Danh sách Điểm Đào Tạo</h1>
+ 
+
+  <button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="xuatfulldanhsachdiemdaotao"asp-controller="DiemDaoTao" class="btnlogin"style="text-decoration: none;color:white">Xuất danh sách ra file excel</a>
+     </button>
+     <button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="xuatthanhvienPT"asp-controller="DiemDaoTao" class="btnlogin"style="text-decoration: none;color:white">Xuất danh sách thành viên PT ra file excel</a>
+     </button>
+
+    @if (Model != null)
+    {
+        @if (Model.Count() > 0)
+        {  
+             
+ 
+             <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>}}
+     

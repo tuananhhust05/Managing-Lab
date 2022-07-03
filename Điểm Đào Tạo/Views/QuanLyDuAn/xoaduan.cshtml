@@ -1,0 +1,95 @@
+﻿ @model IEnumerable<ChiTietDuAn>
+@{
+    Layout = null;
+}
+ <form class="formlogin" asp-action="xoaduan",asp-controller="QuanLyDuAn",method="post">
+    @Html.AntiForgeryToken()    
+    @Html.ValidationSummary()
+    <div class="form-group">
+       <input class="abc1"placeholder="Nhập dự án muốn xóa" type="text" id="IP" name="IP" />
+    </div>
+    <div class="form-group">
+       <input style="width:100px;height:50px"type="submit"class="btnlogin" value="Xóa"/>
+    </div>
+     
+    
+    </form>
+    <style>
+    .form-group{
+        text-align:center;
+        margin-top:30px;
+    }
+   
+    </style>
+    
+ <style>
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin:auto;}
+.abc{
+margin-top:50px;
+margin-left:550px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}</style>
+@if(Model!=null)
+{
+    <hr/>
+    <table style="margin-top:100px;margin-left:450px;" cellpadding="0"cellspacing="0"border="1">
+        <tr>
+              <td>LabID</td>
+              <td>Tên dự án </td>
+              <td>Chức vụ </td>
+              <td>Đánh giá</td>
+             
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.LabID</td>
+                <td>@item.Tenduan</td>
+                <td>@item.Chucvu</td>
+                <td>@item.Danhgia</td>
+                
+            </tr>
+        }
+    </table>
+}
+
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>
+
+
+
+
+<div class="abc">
+<h1 class="giua">Hướng dẫn sử dụng </h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+
+<p style="margin-left:30px;">Lấy tên dự án trong phần danh sách</p>
+</div>

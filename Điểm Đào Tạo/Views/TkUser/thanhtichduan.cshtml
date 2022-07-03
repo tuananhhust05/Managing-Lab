@@ -1,0 +1,131 @@
+﻿ <div class="header"></div>
+ <style>
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+
+
+
+</style>
+<h1 style="text-align:center;color:#808080">Danh sách dự án</h1>
+<style>
+
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+
+
+
+</style>
+
+
+
+@model IEnumerable<ChiTietDuAn>
+@{
+    Layout = null;
+}
+
+
+@if(Model!=null)
+{
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto;margin-top:50px; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+        <tr>
+              <td style="border:1px solid black;padding:10px;">ID</td>
+              <td style="border:1px solid black;padding:10px;">LabID</td>
+              <td style="border:1px solid black;padding:10px;">Tên</td>
+              <td style="border:1px solid black;padding:10px;">Tên dự án </td>
+              <td style="border:1px solid black;padding:10px;">Chức vụ </td>
+              <td style="border:1px solid black;padding:10px;">Bắt đầu</td>
+              <td style="border:1px solid black;padding:10px;">Kết thúc</td>
+              <td style="border:1px solid black;padding:10px;">Đánh giá</td>
+           
+             
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.ID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Tenduan</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Chucvu</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.BatDau</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.KetThuc</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Danhgia</td>
+                    
+            </tr>
+        }
+    </table>
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkUser" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>
+
+
+      <div class="abc">
+<h1 class="giua">Contact</h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<p>Địa chỉ: Vinhome Ocean Park, Gia Lâm, Hà Nội</p>
+<p>Phone: 0339170155</p>
+<p>Email: labthaysinh@mail.com</p>
+</div>

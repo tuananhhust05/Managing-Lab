@@ -1,0 +1,53 @@
+﻿@model TKDangNhap
+@{
+   
+    Layout = "~/Views/Shared/layout2.cshtml";
+}
+<link rel="stylesheet" href="~/themify-icons/themify-icons.css">
+
+
+<i class="ti-arrow-up"></i>
+  <div class="header"></div>
+ <style>
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+</style>
+
+<button style="text-align:center;top:25%;position: absolute;left: 40%;background-color:#6495ED;width:20%;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="tkuser"asp-controller="ChonTkDangNhap" class="btnlogin"style="text-decoration: none;color:white">Tài khoản User</a>
+</button>
+<button style="text-align:center;top:35%;position: absolute;left: 40%;background-color:#6495ED;width:20%;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="tksuper"asp-controller="ChonTkDangNhap" class="btnlogin"style="text-decoration: none;color:white">Tài khoản super </a>
+</button>
+ <button style="text-align:center;top:45%;position: absolute;left: 40%;background-color:#6495ED;width:20%;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="tkchinhsuaquyentruycap"asp-controller="ChonTkDangNhap" class="btnlogin"style="text-decoration: none;color:white">Tài khoản chỉnh sửa quyền truy cập</a>
+</button>

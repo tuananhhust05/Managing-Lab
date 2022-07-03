@@ -1,0 +1,108 @@
+﻿@model List<HienThiThongTinNguoiDungTkUser>
+@{
+   
+    Layout = "~/Views/Shared/layoutTkUser.cshtml";
+}
+
+ <style>
+
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+</style>
+<h1 style="text-align:center;margin-top:100px;">@ViewBag.Name </h1>
+
+
+     <!-- show dữ liệu-->
+     @if(Model!=null){
+     @if(Model.Count() > 0)
+ {
+        @foreach (var member in Model)
+        {
+            <hr />
+           <table style="width:800px;margin:auto;margin-top:100px">
+    <tr> 
+        <td><img src="@member.Image" style="height:200px;width:200px"/></td>
+        
+    </tr>
+    <tr> 
+        <td>LabID:</td>
+        <td>@member.LabID</td>
+    </tr>
+    <tr>
+        <td>Họ và tên:</td>
+        <td>@member.Ten</td>
+    </tr>
+    <tr>
+        <td>Thế hệ:</td>
+        <td>@member.TheHe</td>
+    </tr>
+    <tr>
+        <td>Số điện thoại:</td>
+        <td>@member.SDT</td>
+    </tr>
+    <tr>
+        <td>Ngành học:</td>
+        <td>@member.NganhHoc</td>
+    </tr>
+    <tr>
+        <td>Trường học:</td>
+        <td>@member.TruongHoc</td>
+    </tr>
+    <tr>
+        <td>Email:</td>
+        <td>@member.email</td>
+    </tr>
+    <tr>
+        <td>Quê quán:</td>
+        <td>@member.QueQuan</td>
+    </tr>
+    <tr>
+        <td>Chứng chỉ:</td>
+        <td>@member.Chungchi</td>
+    </tr>
+    <tr>
+        <td>PowerTeam:</td>
+        <td>@member.PowerTeam</td>
+    </tr>
+    <tr>
+        <td>Điểm Đào Tạo:</td>
+        <td>@member.Diem</td>
+    </tr>
+    <tr>
+        <td>Điêm Phát Triển Bản Thân:</td>
+        <td>@member.DiemPTBT</td>
+    </tr>
+    <tr>
+        <td>Điểm Ý Thức:</td>
+        <td>@member.DiemYThuc</td>
+    </tr>
+</table>
+        }
+    }
+}
+    

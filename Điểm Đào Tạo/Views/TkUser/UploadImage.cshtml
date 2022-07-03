@@ -1,0 +1,12 @@
+﻿@{
+   
+    Layout = "~/Views/Shared/layoutTkUser.cshtml";
+}
+
+
+
+<form style="margin-top:150px;margin-left:450px;" asp-controller="TkUser" asp-action="UploadImage"method="post"enctype="multipart/form-data">
+    <input type="file" name="file"/>
+    <hr/>
+    <button type="submit">Thêm</button>
+</form>

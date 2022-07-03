@@ -1,0 +1,58 @@
+﻿@model List<memberInfo>
+
+
+<form method="post" enctype="multipart/form-data"style="margin-top:50px" asp-controller="Home" asp-action="ExportToExcel">
+    <button type="submit">Xuất file excel</button>
+</form>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="SearchMemberInfo">
+    <input name="LabID" placeholder="Nhập LabID" type="number" />
+    <button type="submit">Search</button>
+</form>
+
+
+
+
+@if (Model.Count() > 0)
+{
+    <hr />
+    <table style="border-collapse:collapse;width:1000px; margin:auto;margin-top:50px; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+        <tr>
+            <td style="border:1px solid black;padding:10px;">LabID</td>
+            <td style="border:1px solid black;padding:10px;">Tên</td>
+            <td style="border:1px solid black;padding:10px;">Thế hệ</td>
+            <td style="border:1px solid black;padding:10px;">Số điện thoại</td>
+            <td style="border:1px solid black;padding:10px;">Ngành học</td>
+            <td style="border:1px solid black;padding:10px;">Trường học</td>
+            <td style="border:1px solid black;padding:10px;">Email</td>
+            <td style="border:1px solid black;padding:10px;">Quê quán</td>
+            <td style="border:1px solid black;padding:10px;">Trạng thái</td>
+            <td style="border:1px solid black;padding:10px;">Chức vụ</td>
+            <td style="border:1px solid black;padding:10px;">Chứng chỉ</td>
+            <td style="border:1px solid black;padding:10px;">Dự Án</td>
+        </tr>
+        <hr />
+        @foreach (var member in Model)
+        {
+            <tr>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.LabID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.Ten</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.TheHe</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.SDT</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.NganhHoc</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.TruongHoc</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.email</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.QueQuan</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.TrangThai</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.ChucVu</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.Chungchi</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.Duan</td>
+
+            </tr>
+            <hr />
+        }
+    </table>
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

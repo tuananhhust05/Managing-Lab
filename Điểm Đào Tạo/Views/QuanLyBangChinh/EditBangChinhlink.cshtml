@@ -1,0 +1,97 @@
+﻿@model List<MainTable>
+<!--truyền vào 2 lần khác nhau -->
+<!-- không cùng lúc-->
+
+<h1 style="margin-top:80px">Chỉnh sửa thông tin</h1>
+
+<form asp-controller="QuanLyBangChinh" asp-action="EditBangChinhlink" method="post">
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+        <!--in ra thằng cần chỉnh sửa-->
+        @foreach (var d in Model)
+        {
+            
+            <tr>
+               <td> <h4>LabID:</h4>                                                                  </td>
+               <td> <input name="LabID" type="text" value="@d.LabID" required />                     </td>
+            </tr>
+            <tr>
+               <td> <h4>Tên:</h4>                                                                   </td>
+               <td> <input name="Ten" type="text" value="@d.Ten" required />                        </td>
+
+            </tr>
+            <tr>
+               <td> <h4>Thế hệ:</h4>                                                               </td>
+               <td> <input name="TheHe" type="text" value="@d.TheHe" required />                   </td>
+            </tr>
+            <tr>
+               <td> <h4>Số điện thoại : </h4>                                                     </td>
+               <td> <input name="SDT" type="text" value="@d.SDT" required />                      </td>
+            </tr>
+            <tr>
+               <td> <h4>Ngành học : </h4>                                                        </td>
+               <td> <input name="NganhHoc" type="text" value="@d.NganhHoc" required />           </td>
+
+            </tr>
+            <tr>
+               <td> <h4>Trường học  : </h4>                                                     </td>
+               <td> <input name="TruongHoc" type="text" value="@d.TruongHoc" required />        </td>
+            </tr>
+            <tr>
+               <td> <h4>email: </h4>                                                        </td>
+               <td> <input name="email" type="text" value="@d.email" required />            </td>
+            </tr>
+            <tr>
+               <td> <h4>Quê quán: </h4>                                                   </td>
+               <td> <input name="QueQuan" type="text" value="@d.QueQuan" required />      </td>
+
+            </tr>
+            <tr>
+               <td> <h4>Trạng thái hoạt động   :</h4>                                     </td>
+               <td> <input name="TrangThai" type="text" value="@d.TrangThai" required />  </td>
+            </tr>
+
+           
+        }
+    </table>
+    <button type="submit"> Submit </button>
+</form>
+  <a style="margin-left=30px;text-decoration:none" class="btn-primary"asp-action="DeleteImage"asp-controller="QuanLyBangChinh"asp-route-id="@Model[0].LabID" >Xóa ảnh</a>
+<a asp-action="Index">Back to List</a>
+
+
+@if (Model != null)
+{
+    {
+        <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+            <tr>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Thế hệ </th>
+                 <th>Số điện thoại</th>
+                <th>Ngành học</th>
+                <th>Trường học </th>
+                 <th>email</th>
+                <th>Quê quán</th>
+                <th>Trạng thái</th>
+            </tr>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.TheHe</td>
+                    <td>@d.SDT</td>
+                    <td>@d.NganhHoc</td>
+                    <td>@d.TruongHoc</td>
+                    <td>@d.email</td>
+                    <td>@d.QueQuan</td>
+                    <td>@d.TrangThai</td>
+                    
+                </tr>
+            }
+        </table>
+    }
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

@@ -1,0 +1,64 @@
+﻿@{
+   
+    Layout = "~/Views/Shared/layout2.cshtml";
+}
+@model Bangtaikhoan
+<h1 style="text-align:center;color:#808080">Danh sách thông tin phân quyền tài khoản</h1>
+<div class="header">
+     <button style="text-align:center;margin-left:1250px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="ChonTkDangNhap" class="btnlogin"style="text-decoration: none;color:white">Đăng xuất</a>
+     </button>
+    
+</div>
+<form asp-controller="TkPhanQuyenTruyCap" asp-action="QuanLyTaiKhoan" method="get" enctype="multipart/form-data">
+    <hr />
+
+    <label>Bảng tài khoản được phân quyền:</label>
+
+    <select name="Attribute" id="Attribute" onchange="this.form.submit()">
+        <option value="@Model.LoaiBang">@Model.TenBang</option>
+        @foreach (var item in Model.LoaiVaTenBang.Keys)
+        {
+            @if (item != Model.LoaiBang)
+            {
+                <option value="@item">@Model.LoaiVaTenBang[item]</option>
+            }
+        }
+    </select>
+
+    @if (Model != null)
+    {
+        <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+            <tr>
+                <th>ID</th>
+                <th>LabID</th>
+                <th>Mật khẩu</th>
+                <th></th>
+            </tr>
+            @{int i = 1;}
+            @foreach (var d in Model.Danhsachtaikhoan)
+            {
+                <tr>
+                    <td>
+                        @i
+                        @{i++;}
+                    </td>
+                    <td>@d.LabID</td>
+                    <td>@d.MatKhau</td>
+                    <td>
+                        <a asp-action="DeletePhanQuyen" asp-route-id="@Model.LoaiBang-@d.LabID">Delete</a>
+                    </td>
+                </tr>
+
+            }
+        </table>
+    }
+
+
+</form>
+
+<form asp-controller="TkPhanQuyenTruyCap" asp-action="AddPhanQuyen" method="post" enctype="multipart/form-data">
+    <button type="submit" asp-action="AddPhanQuyen">Thêm tài khoản được phân quyền</button>
+</form>
+
+

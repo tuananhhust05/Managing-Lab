@@ -1,0 +1,56 @@
+﻿@model List<NhanDuLieuVaoBangChinhEx>
+<form style="margin-top:100px;margin-left:450px;" asp-controller="QuanLyBangChinh" asp-action="capnhattrangthai"method="post"enctype="multipart/form-data">
+    <input type="file" name="file"/>
+    <hr/>
+    <button type="submit">Thêm</button>
+</form>
+
+
+
+<h1 style="text-align:center;color:#808080">Danh sách tài khoản được cập nhật  </h1>
+
+    @if (Model != null)
+    {
+        @if (Model.Count() > 0)
+        {  
+             
+ 
+            <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                     <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Thế hệ</th>
+                     <th style="border:1px solid black;padding:10px;">SDT </th>
+                     <th style="border:1px solid black;padding:10px;">Ngành học </th>
+                     <th style="border:1px solid black;padding:10px;">Trường học </th>
+                     <th style="border:1px solid black;padding:10px;">email</th>
+                     <th style="border:1px solid black;padding:10px;">Quê quán </th>
+                   
+                     <th style="border:1px solid black;padding:10px;">Trạng Thái </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+                    {
+        <tr>
+             
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.TheHe</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.SDT</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.NganhHoc</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.TruongHoc</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.email</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.QueQuan</td>
+          
+             <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.TrangThai</td>
+
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>}}
+     

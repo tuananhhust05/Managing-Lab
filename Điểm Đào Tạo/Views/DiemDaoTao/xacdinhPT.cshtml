@@ -1,0 +1,127 @@
+﻿@model List<SignalChar>
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="./themify-icons/themify-icons.css">
+</head>
+<body>
+<style>
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+.btnlogin{
+    margin-left:100px;  /* căn lề cho button trong form*/
+    background-color:#6495ED;/* màu button*/
+    width:200px;   /* kích thươc*/
+    height:50px;
+    text-align: center; /* căn lề cho chữ */
+    border-radius: 4px;   /* điều chỉnh góc tròn*/
+    color:white;  /*màu chữ*/
+    border-color:#6495ED;  /* viền */
+}
+
+
+</style>
+<!--css thằng form chứa nó -->
+
+
+
+    
+       <!--tạo form chuyền thông tin => đơn giản hiệu quả --> 
+   <form class="formlogin" asp-action="xacdinhPT",asp-controller="DiemDaoTao",method="post">
+    
+    <div class="form-group">
+      <input class="abc1"placeholder="Nhập LabID"type="text" id="ID" name="ID" />
+    </div>
+    <div class="form-group">
+       <input type="submit"class="btnlogin" value="Tìm kiếm"  />
+    </div>
+
+
+    </form>
+   
+     @if (Model != null)
+    {
+        @if (Model.Count() > 0)
+        {  
+             
+ 
+            <table class="table table-bordered" style="text-align:center;margin-top:50px" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Power Team</th>
+                       
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td style="text-align:center">@item.signal</td>
+                           
+
+
+                        </tr>
+                    }
+
+                                        
+                                        
+                                    </tbody>
+
+
+                                </table>}}
+     
+   
+    
+   
+
+     
+
+
+
+<!--Chân trang */-->
+
+
+ <div class="abc">
+<h1 class="giua">Contact</h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<p>Địa chỉ: Vinhome Ocean Park, Gia Lâm, Hà Nội</p>
+<p>Phone: 0339170155</p>
+<p>Email: labthaysinh@mail.com</p>
+
+
+
+</div>
+
+</body>
+
+</html>

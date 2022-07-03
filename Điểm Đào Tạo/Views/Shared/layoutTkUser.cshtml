@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - vroom</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/themify-icons/themify-icons.css"/>
+</head>
+<body>
+
+<style>
+     td:hover{
+        display:block;  /*xóa thằng display:none cửa subnav*/
+        background-color: red;
+        color:white;
+    }
+</style>
+
+
+<style>
+#header .mobile-menu-btn {
+position: absolute;
+top: 0;
+right: 0;
+display: none
+}
+#header .mobile-menu-btn,
+#header .search-btn {
+   float: right;
+   padding: 0 21px;
+}
+
+#header .search-btn:hover {
+    background-color:  #f44336; 
+    cursor: pointer;
+}
+#header .mobile-menu-btn:hover {
+    background-color:  #ccc; 
+}
+#header .mobile-menu-btn:hover .menu-icon {
+     color: #000;
+ }
+#header .menu-icon,
+#header .search-icon {
+    color: #fff ;
+    font-size: 20px;
+    line-height: 46px;
+}
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 46px;
+    background-color:#00BFFF ;
+    z-index: 1;
+    
+}
+
+#nav {
+    display: inline-block;
+}
+#nav, .subnav {
+    list-style-type: none;
+
+}
+#nav > li {
+    display:inline-block;
+    
+}
+#nav li {
+    position: relative;
+}
+#nav >li > a {
+    color:#fff;
+    text-transform: uppercase ;
+
+}
+#nav li a {
+    color:#fff;
+    text-decoration: none;
+    line-height: 46px ;
+    padding: 0 24px;
+    display:block;
+}
+#nav li:hover .subnav {
+    display: block;
+}
+#nav > li:hover > a,
+#nav .subnav li:hover a {
+      color:#000;
+      background-color: #ccc;
+}
+#nav .subnav {
+   display:none;
+   position: absolute;
+   top: 100%;
+   left: 0 ;
+   min-width: 160px;
+   background-color:#00BFFF;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) ;
+}
+#nav.subnav a {
+    color: #000;
+    padding: 0 12px;
+    line-height: 38px;
+}
+#nav .nav-arrow-down {
+    font-size: 10px;
+}
+#nav li:hover .subnav {
+    display: block;
+}
+#nav > li:hover > a,
+#nav .subnav li:hover a {
+      color:#000;
+      background-color: #ccc;
+}
+#nav .subnav {
+   display:none;
+   position: absolute;
+   top: 100%;
+   left: 0 ;
+   min-width: 160px;
+   background-color:#00BFFF;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) ;
+}
+#nav.subnav a {
+    color: #00BFFF;
+    padding: 0 12px;
+    line-height: 38px;
+}
+    </style>
+
+
+
+   <div id="header">
+         <ul id="nav">
+             <li><a asp-action="Index"asp-controller="TkUser">HomePage</a></li>
+             
+             <li><a asp-action="Editthongtinlink"asp-controller="TkUser">Chỉnh sửa thông tin cá nhân</a></li>
+             <li> <a asp-action="thanhtichduan"asp-controller="TkUser" >Thành tích dự án</a>        </li>
+             <li> <a asp-action="thanhtichleaderteam"asp-controller="TkUser" >Thành tích Leader Team</a>                    </li>
+             <li> <a asp-action="Index"asp-controller="CommentBoxUser" >CommentBox</a>   
+             <li> <a asp-action="suamatkhau"asp-controller="TkUser" >Sửa mật khẩu</a>                    </li>
+             <li> <a asp-action="Index"asp-controller="ChonTkDangNhap" >Đăng xuất</a>  </li>
+
+           
+           
+             
+         </ul>
+      </div>
+
+
+
+ 
+
+            @RenderBody()
+       
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Lab Thầy Sinh 
+           
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

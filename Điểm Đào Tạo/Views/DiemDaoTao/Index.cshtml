@@ -1,0 +1,135 @@
+﻿  @model List<DiemDaoTao>
+ @{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <style>
+
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin-top:100px;
+    margin-left:450px;}
+.abc{
+margin-top:200px;
+margin-left:450px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+
+.container_swap{
+  
+  width: 1300px;
+  margin:auto;
+  margin-top: 100px;
+  
+  }
+  
+  .div_chinh{
+  
+  width: 900px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  .div_chinhle{
+  
+  width: 30px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  
+  .div_le{
+  
+  width: 70px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  
+  }
+  .div_phu{
+  
+  width: 300px;
+  
+  float: left;
+  
+  text-align: center;
+  margin:auto;
+  background-color:#DCDCDC;
+  }
+</style>
+<h1 style="text-align:center;color:#808080;margin-top:50px">Điểm Đào Tạo</h1>
+<div class="container_swap">
+    <div class="div_le">.</div>
+    <div class="div_phu">
+    
+            <a asp-action="truongpt"asp-controller="DiemDaoTao" class="btn btn-primary"style="margin-top:30px;">Trưởng PowerTeam</a>
+            <hr  style="width:70%;text-align:center;" />
+            <a asp-action="truongbandaotao"asp-controller="DiemDaoTao" class="btn btn-primary">Trưởng Ban Đào Tạo</a>
+            <hr  style="width:70%;text-align:center;" />
+            <a asp-action="timkiemdiemdaotaotheoID"asp-controller="DiemDaoTao" class="btn btn-primary">Tìm kiếm</a>
+            <hr  style="width:70%;text-align:center;" />
+            <a asp-action="xacdinhPT"asp-controller="DiemDaoTao" class="btn btn-primary">Xác định PT theo ID</a>
+            <p style="line-height:1000px">.</p>
+            <hr  style="width:70%;text-align:center;line-height:1000px" />
+     </div>
+
+     <div class="div_chinhle">.</div>
+     <div class="div_chinh">
+     @if (Model != null)
+    {
+        @if (Model.Count() > 0)
+        {  
+             
+ 
+             <table style="text-align:center;margin-top:50px;margin:auto;width:90%;">
+    <thead >
+       <tr style="background-color:#0000FF;box-shadow: 2px 2px 2px #999999; border-radius:1px; border-width: 1px;border-style: solid;" >
+                     <th style="color:white">LabID </th>
+                     <th style="color:white">Tên </th>
+                     <th style="color:white">Điểm </th>
+                     <th style="color:white">Chỉnh sửa</th>
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model)
+                    {
+        <tr>
+            
+            <td style="border:0.5px solid white;">@item.LabID</td>
+            <td style="border:0.5px solid white;">@item.Ten</td>
+            <td style="border:0.5px solid white;">@item.Diem</td>
+                    <td><a asp-action="EditDiemDaoTaolink" asp-route-id="@item.LabID"class="btn btn-primary">Edit</a> </td>
+            
+        </tr>}
+       
+    </tbody>
+ </table>}}
+ </div>
+</div>

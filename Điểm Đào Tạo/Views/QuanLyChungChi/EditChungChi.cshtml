@@ -1,0 +1,53 @@
+﻿@model List<ChungChi>
+
+<h1 style="margin-top:100px">Chỉnh sửa thông tin</h1>
+
+<form asp-controller="QuanLyChungChi" asp-action="EditChungChi" method="post">
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+
+        @foreach (var d in Model)
+        {
+            
+            <tr>
+               <td> <h4>LabID: </h4>                                                         </td>
+               <td> <input name="LabID" type="text" value="@d.LabID" required />        </td>
+            </tr>
+            <tr>
+               <td> <h4>Tên: </h4>                                                              </td>
+               <td> <input name="Ten" type="text" value="@d.Ten" required />              </td>
+
+            </tr>
+            <tr>
+               <td> <h4>Chứng Chỉ: </h4>                                                            </td>
+               <td> <input name="TenChungChi" type="text" value="@d.Tenchungchi" required />   </td>
+            </tr>
+
+            
+        }
+    </table>
+    <button type="submit"> Submit </button>
+</form>
+
+<a asp-action="ChungChi">Back to List</a>
+
+
+@if (Model != null)
+{
+    {
+        <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+            <tr>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Chứng Chỉ</th>
+            </tr>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.Tenchungchi</td>
+                </tr>
+            }
+        </table>
+    }
+}

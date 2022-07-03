@@ -1,0 +1,565 @@
+﻿@using Điểm_Đào_Tạo.ViewModels
+@model FullBangViewModel
+    <style>
+    .form-group{
+        text-align:center;
+        margin-top:30px;
+    }
+   
+    </style>
+    
+ <style>
+.header{
+    background-color:#6495ED;
+    height:50px;
+}
+#tendangnhap{
+    text-align: center;
+    margin-left: 450px;
+}
+.form-group{
+   
+    
+    margin-top:10px;
+
+}
+.btn btn-default{
+    color: aqua;
+}
+.formlogin{
+    margin:auto}
+.abc{
+margin-top:50px;
+margin-left:550px;
+}
+.giua{
+color:black;
+margin-left:20px}
+.abc1{
+    width: 400px;
+    height:30px;
+}
+
+</style>
+   <button style="text-align:center;margin-top:75px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="databaseclone"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">Tạo database clone</a>
+     </button>
+
+      <button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="xuatexcel"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">Xuất file excel các bảng</a>
+     </button>
+
+@if (Model.chitietduan != null)
+{
+    <h1 style="text-align:center;margin-top:50px;color:#808080">Bảng chi tiết dự án</h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto;margin-top:50px; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+        <tr>
+            <td style="border:1px solid black;padding:10px;">ID</td>
+            <td style="border:1px solid black;padding:10px;">LabID</td>
+            <td style="border:1px solid black;padding:10px;">Tên</td>
+            <td style="border:1px solid black;padding:10px;">Tên dự án </td>
+            <td style="border:1px solid black;padding:10px;">Chức vụ </td>
+            <td style="border:1px solid black;padding:10px;">Bắt đầu</td>
+            <td style="border:1px solid black;padding:10px;">Kết thúc</td>
+            <td style="border:1px solid black;padding:10px;">Đánh giá</td>
+
+        </tr>
+        @foreach (var item in Model.chitietduan)
+        {
+            <tr>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.ID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Tenduan</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Chucvu</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.BatDau</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.KetThuc</td>
+                <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.Danhgia</td>
+                
+            </tr>
+        }
+
+    </table>
+    }
+
+    @if (Model.chungchi != null)
+{
+    <h1 style="text-align:center;margin-top:50px;color:#808080">Bảng chứng chỉ</h1>
+    <hr/>
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="1" cellspacing="0">
+            <tr>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Chứng Chỉ</th>
+
+            </tr>
+            @foreach (var d in Model.chungchi)
+            {
+                <tr>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.Tenchungchi</td>
+                </tr>
+            }
+        </table>
+    }
+
+
+
+
+
+    @if (Model.diemptba != null)
+{
+    <h1 style="text-align:center;color:#808080">PT BA </h1>
+    <hr/>
+   <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diemptba)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+
+
+    @if (Model.diemptcokhi != null)
+{
+    <h1 style="text-align:center;color:#808080">PT Cơ Khí</h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diemptcokhi)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+    @if (Model.diemptlaptrinh != null)
+{
+    <h1 style="text-align:center;color:#808080">PT lập trình </h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diemptlaptrinh)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+
+    @if (Model.diemptngoaingu != null)
+{
+    <h1 style="text-align:center;color:#808080">PT Ngoại Ngữ</h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diemptngoaingu)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+
+
+
+    @if (Model.diemptptbt != null)
+{
+    <h1 style="text-align:center;color:#808080">PT Phát triển bản thân </h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diemptptbt)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+    @if (Model.diemptquantridoanhnghiep != null)
+{
+    <h1 style="text-align:center;color:#808080">PT quản trị doanh nghiệp </h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diemptquantridoanhnghiep)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+
+
+    @if (Model.diempttudonghoa!= null)
+{
+    <h1 style="text-align:center;color:#808080">PT Tự động hóa </h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm </th>
+                    
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.diempttudonghoa)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Diem</td>
+                    
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+
+
+    @if (Model.ptbt != null)
+{
+    <h1 style="text-align:center;color:#808080">Điểm PTBT</h1>
+    <hr/>
+    <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm PTBT </th>
+                     
+       </tr>
+    </thead>
+    <tbody>
+        
+             @foreach (var item in Model.ptbt)
+                    {<tr>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.DiemPTBT</td>
+            
+                        
+                    
+                     </tr>}
+            
+       
+       
+    </tbody>
+ </table>
+    }
+
+
+
+
+      @if (Model.ythuc != null)
+{
+    <h1 style="text-align:center;color:#808080">Điểm ý thúc </h1>
+    <hr/>
+   <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Tên </th>
+                     <th style="border:1px solid black;padding:10px;">Điểm Ý thức</th>
+                     
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.ythuc)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.Ten</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.DiemYThuc</td>
+          
+           
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+      @if (Model.dsduan != null)
+{
+    <h1 style="text-align:center;color:#808080">danh sách dự án </h1>
+    <hr/>
+   <table class="table table-bordered" style="text-align:center;margin-top:50px" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Tên dự án </th>
+                        <th>Mã dự án </th>
+                       
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.dsduan)
+                    {
+                        <tr>
+                            <td style="text-align:center">@item.tenduan</td>
+                            <td style="text-align:center">@item.maduan</td>
+                          
+
+
+                        </tr>
+                    }
+
+                                        
+                                        
+                                    </tbody>
+
+
+                                </table>
+    }
+
+
+
+
+
+
+      @if (Model.bangchinh != null)
+{
+    <h1 style="text-align:center;color:#808080">Bảng chính </h1>
+    <hr/>
+    <table  style="border-collapse:collapse;width:1000px; margin:auto;margin-top:50px; border:1px solid black; border-spacing:10px;background-color: #E6E6FA">
+        <tr>
+            <td style="border:1px solid black;padding:10px;">LabID</td>
+            <td style="border:1px solid black;padding:10px;">Tên</td>
+            <td style="border:1px solid black;padding:10px;">Thế hệ</td>
+            <td style="border:1px solid black;padding:10px;">Số điện thoại</td>
+            <td style="border:1px solid black;padding:10px;">Ngành học</td>
+            <td style="border:1px solid black;padding:10px;">Trường học</td>
+            <td style="border:1px solid black;padding:10px;">Email</td>
+            <td style="border:1px solid black;padding:10px;">Quê quán</td>
+            <td style="border:1px solid black;padding:10px;">Trạng thái</td>
+
+        </tr>
+       
+        @foreach (var member in Model.bangchinh)
+        {
+        <tr>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.LabID</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.Ten</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.TheHe</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.SDT</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.NganhHoc</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.TruongHoc</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.email</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.QueQuan</td>
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@member.TrangThai</td>
+         
+             <td><a asp-action="EditBangChinhlink" asp-route-id="@member.LabID">Edit</a> </td>
+        </tr>
+            
+        }
+    </table>
+    }
+
+
+
+      @if (Model.taikhoan != null)
+{
+    <h1 style="text-align:center;color:#808080">Danh sách tài khoản đăng nhập</h1>
+    <hr/>
+   <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Mật khẩu  </th>
+                    
+                     
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.taikhoan)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.MatKhau</td>
+          
+          
+           
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }
+
+
+
+
+      @if (Model.leader != null)
+{
+    <h1 style="text-align:center;color:#808080">Quản lý LT </h1>
+    <hr/>
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="1" cellspacing="0">
+            <tr>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Chức vụ</th>
+                <th>Bắt đầu</th>
+                <th>Kết thúc</th>
+                <th>Đánh giá</th>
+            </tr>
+            @foreach (var d in Model.leader)
+            {
+                <tr>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.ChucVu</td>
+                    <td>@d.BatDau</td>
+                    <td>@d.KetThuc</td>
+                    <td>@d.DanhGia</td>
+                </tr>
+            }
+        </table>
+    }
+
+
+
+          @if (Model.phanquyenlt != null)
+{
+    <h1 style="text-align:center;color:#808080">Danh sách tài khoản đăng nhập Leader Team</h1>
+    <hr/>
+   <table style="border-collapse:collapse;width:1000px; margin:auto; border:1px solid black; border-spacing:10px;background-color: #E6E6FA; margin-top:30px">
+    <thead >
+       <tr>
+                     <th style="border:1px solid black;padding:10px;">LabID </th>
+                      <th style="border:1px solid black;padding:10px;">Mật khẩu  </th>
+                    
+                     
+       </tr>
+    </thead>
+    <tbody>
+         @foreach (var item in Model.phanquyenlt)
+                    {
+        <tr>
+            
+            <td style="border:1px solid black; text-align: center;padding:10px;background-color: #B0E0E6">@item.LabID</td>
+            <td style="border:1px solid black;text-align: center;padding:10px;background-color: #B0E0E6">@item.MatKhau</td>
+          
+          
+           
+            
+        </tr>}
+       
+    </tbody>
+ </table>
+    }

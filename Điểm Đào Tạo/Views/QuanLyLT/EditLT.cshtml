@@ -1,0 +1,74 @@
+﻿@model List<LT>
+
+<h1 style="margin-top:100px">Chỉnh sửa thông tin</h1>
+
+<form asp-controller="QuanLyLT" asp-action="EditLT" method="post">
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">   
+      
+        <!--hiển thị thông tin trong form -->
+            @foreach (var d in Model)
+            {
+                
+                    <tr>
+                       <td> <h4>LabID:</h4>                                                           </td>
+                       <td> <input name="LabID" type="text" value="@d.LabID" required />              </td>
+                    </tr>
+                    <tr>
+                       <td><h4>Tên:</h4>                                                            </td>
+                       <td><input name="Ten" type="text" value="@d.Ten" required />                 </td>
+                        
+                    </tr>
+                    <tr>
+                       <td> <h4>Chức vụ:</h4>                                                      </td>
+                       <td> <input name="ChucVu" type="text" value="@d.ChucVu" required />         </td>              
+                    </tr>
+                    <tr>
+                       <td> <h4>Bắt đầu:</h4>                                                  </td>
+                       <td> <input name="BatDau" type="text" value="@d.BatDau" required />     </td>                  
+                    </tr>
+                    <tr>
+                       <td> <h4>Kết thúc:</h4>                                               </td>
+                       <td> <input name="KetThuc" type="text" value="@d.KetThuc" />          </td>          
+                    </tr>
+                    <tr>
+                       <td> <h4>Đánh Giá:</h4>                                            </td>
+                       <td> <input name="DanhGia" type="text" value="@d.DanhGia" />       </td>               
+                    </tr>
+                
+            }
+        </table>
+    <button type="submit"> Submit </button>
+</form>
+
+<a asp-action="LT">Back to List</a>
+
+
+@if (Model != null)
+{
+    {
+        <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+            <tr>
+                <th>LabID</th>
+                <th>Tên</th>
+                <th>Chức vụ</th>
+                <th>Bắt đầu</th>
+                <th>Kết thúc</th>
+                <th>Đánh giá</th>
+            </tr>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.LabID</td>
+                    <td>@d.Ten</td>
+                    <td>@d.ChucVu</td>
+                    <td>@d.BatDau</td>
+                    <td>@d.KetThuc</td>
+                    <td>@d.DanhGia</td>
+                </tr>
+            }
+        </table>
+    }
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

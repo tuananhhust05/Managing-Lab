@@ -1,0 +1,75 @@
+﻿
+<!--View chính-->
+@model List<LT>
+<h1 style="text-align:center;;margin-top:50px;color:#808080">Danh sách thông tin LT </h1>
+<!--Các phím này chuyển đến các action trong Home-->
+<!-- Tư duy rất hay -->
+<form asp-controller="QuanLyLT" asp-action="Index" method="post" enctype="multipart/form-data">
+    <input name="file" type="file" required/>
+    <button type="submit" >Upload</button>
+    <hr />
+</form>
+<form asp-controller="QuanLyLT" asp-action="ExportToExcel" method="post">
+    <button type="submit">Export To Excel</button>
+</form>
+
+<form asp-controller="QuanLyLT" asp-action="Find" method="get" enctype="multipart/form-data">
+    <hr />
+    
+    <label name="Attribute">Trường dữ liệu:</label>
+
+<select name="Attribute" id="Attribute">
+  <option value="ID">ID</option>
+    <option value="LabID">LabID</option>
+  <option value="Ten">Tên</option>
+  <option value="ChucVu">Chức vụ</option>
+  <option value="BatDau">Bắt đầu</option>
+  <option value="KetThuc">Kết thúc</option>
+  <option value="DanhGia">Đánh giá</option>
+</select>
+    
+    <h3> Thông tin cần tìm</h3>
+    <input name="varr" type="text" required />
+    <button type="submit" asp-action="Find"> Find</button>
+
+</form>
+
+
+@if (Model != null)
+{
+    
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">  
+    <tr>  
+        <th>ID</th>  
+        <th>LabID</th>  
+        <th>Tên</th>  
+        <th>Chức vụ</th>  
+        <th>Bắt đầu</th>  
+        <th>Kết thúc</th>  
+        <th>Đánh giá</th>  
+        <th></th>
+    </tr>  
+    @foreach (var d in Model)  
+    {  
+        <tr> 
+            <td>@d.ID</td>  
+            <td>@d.LabID</td>  
+            <td>@d.Ten</td>  
+            <td>@d.ChucVu</td>  
+            <td>@d.BatDau</td>  
+            <td>@d.KetThuc</td>  
+            <td>@d.DanhGia</td>  
+            <td>
+                <a asp-action="EditLT" asp-route-id="@d.ID"class="btn btn-primary">Edit</a> 
+            </td>
+            <td>|</td>
+            <td>
+                <a asp-action="DeleteLT" asp-route-id="@d.ID" class="btn btn-danger"onclick="if(!confirm('Are you sure you want to delete this make')){return false}">Delete</a> 
+            </td>
+        </tr>  
+    }  
+    </table>  
+}
+<button style="text-align:center;margin-top:25px;margin-left:600px;background-color:#6495ED;width:300px;height:50px;color:white;border-radius: 4px;">  
+         <a asp-action="Index"asp-controller="TkSuper" class="btnlogin"style="text-decoration: none;color:white">HomePage</a>
+     </button>

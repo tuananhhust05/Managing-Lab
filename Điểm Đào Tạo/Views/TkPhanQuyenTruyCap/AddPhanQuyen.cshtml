@@ -1,0 +1,54 @@
+﻿@model Bangtaikhoan
+
+<h1>Thêm tài khoản được phân quyền</h1>
+
+<form asp-controller="TkPhanQuyenTruyCap" asp-action="AddPhanQuyen" method="post">
+    <select name="Attribute" id="Attribute" onchange="this.form.submit()">
+        <option value="@Model.LoaiBang">@Model.TenBang</option>
+        @foreach (var item in Model.LoaiVaTenBang.Keys)
+        {
+            @if (item != Model.LoaiBang && item != "tkdangnhap")
+            {
+                <option value="@item">@Model.LoaiVaTenBang[item]</option>
+            }
+        }
+    </select>
+
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+        <td>
+        <tr>
+            <h4>LabID: <input name="LabID" type="text" required /></h4>
+        </tr>
+        </td>
+
+    </table>
+    <button type="submit"> Submit </button>
+</form>
+
+<a asp-action="QuanLyTaiKhoan">Back to List</a>
+
+
+@if (Model != null)
+{
+    <table class="table table-bordered" style="text-align:center;margin-top:50px;margin-left:auto;margin-right:auto" width="60%" border="0" cellspacing="0">
+        <tr>
+            <th>ID</th>
+            <th>LabID</th>
+            <th>Mật khẩu</th>
+            <th></th>
+        </tr>
+        @{int i = 1;}
+        @foreach (var d in Model.Danhsachtaikhoan)
+        {
+            <tr>
+                <td>
+                    @i
+                    @{i++;}
+                </td>
+                <td>@d.LabID</td>
+                <td>@d.MatKhau</td>
+            </tr>
+
+        }
+    </table>
+}
